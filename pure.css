@@ -1,0 +1,59 @@
+body{background-color: rgba(20, 208, 214, 0.959);}
+.div{
+    height: 570px;
+    width: 45%;
+    margin: auto;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 110px 0px;
+}
+h1{
+text-align: center;  
+color:  rgba(20, 208, 214, 0.959) ;
+}
+.input1,.input2{
+    width: 100%;
+}
+.div1,.div2,.div3
+{
+    width: 80%;
+    margin: auto;
+}
+.div1
+{
+margin-top:80px;
+
+}
+.div2{
+margin-top:35px;
+}
+.div3
+{
+margin-top: 20px;
+
+}
+
+input{  
+    border-top: 0px;
+    border-left: 0;
+    border-right: 0
+}
+.button{
+    background-color:  rgba(20, 208, 214, 0.959);
+    width: 80%;
+    height: 40px;
+    display: block;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 20px;
+    border: none;
+}
+.sign{
+width: 200px;
+margin: auto;
+margin-top: 20px;
+}
+a{
+text-decoration: none;
+color:rgb(20, 205, 230);
+}
